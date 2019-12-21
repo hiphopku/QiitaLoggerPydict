@@ -1,0 +1,3 @@
+2019-12-21 15:32:36  [app_with_pydict][INFO]  start = main()  (main:main.py:main:8)
+2019-12-21 15:32:36  [app_with_pydict][ERROR]  oops! something wrong!!  (main:main.py:main:10)
+2019-12-21 15:32:36  [app_with_pydict][INFO]  end = main()  (main:main.py:main:12)
