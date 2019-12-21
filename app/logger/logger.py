@@ -3,7 +3,7 @@ from logging import getLogger
 from logging.config import dictConfig
 
 
-APP_NAME = os.getenv('APP_NAME', default='app_with_pydict')
+APP_NAME = os.getenv('APP_NAME', default='app_name')
 CONFIG = {
     'version': 1, 
     'disable_existing_loggers': False,
